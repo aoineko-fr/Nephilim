@@ -173,5 +173,5 @@ void main()
 		FSM_Update();
 	}
 
-	Bios_Exit(0);
+	// Bios_Exit(0);
 }
